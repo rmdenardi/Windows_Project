@@ -1,5 +1,6 @@
 public class GeratorEmail (){
 
-private CommonsEmail email
+private CommonsEmail email;
+
 
 }
