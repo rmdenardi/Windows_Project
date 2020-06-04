@@ -1,5 +1,7 @@
 public void Connection(){
 
+<<<<<<< HEAD
+
 private Connection connection;
 private String url;
 
