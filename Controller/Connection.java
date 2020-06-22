@@ -1,6 +1,9 @@
 public void Connection(){
 
+<<<<<<< HEAD
+
 private Connection connection;
+private String url;
 
 
 public void getconnection(Connection conn){
